@@ -1,0 +1,14 @@
+**Batch Operating System:**
+   - **Description:** In this type of operating system, the computer doesn't interact directly with the user. Instead, an operator groups similar jobs with the same requirements into batches, and the operator is responsible for sorting these jobs.
+   - **Advantages:**
+     - Predictable job durations.
+     - Multiple users can share the system.
+     - Minimal idle time.
+     - Efficient for handling repetitive tasks.
+   - **Disadvantages:**
+     - Requires knowledgeable operators.
+     - Challenging to debug.
+     - Can be costly.
+     - If a job fails, other jobs have to wait.
+     - Difficult to estimate job completion times.
+   - **Examples:** Payroll systems, bank statements, etc.

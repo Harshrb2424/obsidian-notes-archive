@@ -1,0 +1,4 @@
+- Inversion of the 1st law (Cue): Make it invisible. 
+- Inversion of the 2nd law (Craving): Make it unattractive. 
+- Inversion of the 3rd law (Response): Make it difficult. 
+- Inversion of the 4th law (Reward): Make it unsatisfying.

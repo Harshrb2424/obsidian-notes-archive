@@ -1,0 +1,7 @@
+- You life only gets better when you get better.
+- It doesn't matter where you're coming from.
+- Anything worth doing is worth doing poorly at first.
+- You can learn anything you need to learn to achieve any goal you can set yourself.
+- You are only as free as your options.
+- Within every difficulty you face us the seed of an equal or greater benefit or opportunity.
+- The only real limits on what you can do are self imposed.

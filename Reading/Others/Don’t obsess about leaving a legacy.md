@@ -1,0 +1,5 @@
+Here’s an uncomfortable, but important reminder: You’re going to die one day. We all are. Whether we admit it or not, when the time comes closer, we’re all scared. That’s why many of us want to [leave a legacy](https://fourminutebooks.com/alexander-the-great-summary/), myself included. However, Mark says that might ruin our short amount of precious time here on earth.
+
+**The more we’re driven to build a great body of work, the more start chasing fame, working too much and focusing on the future.** What if instead, we just [tried to be useful in the present?](https://betterhumans.coach.me/how-to-improve-your-writing-with-a-circle-of-6-questions-1b49ac30849e) We could still help a ton of people, enjoy our days and fully be here, while we’re here.
+
+Mark’s stance is clear: Find ways to bring yourself, your loved ones and the people you meet [joy in the now](https://fourminutebooks.com/the-power-of-now-summary/) and let the legacy part take care of itself.

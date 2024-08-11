@@ -1,0 +1,14 @@
+**Real-Time Operating System (RTOS):**
+    - **Description:** Real-time operating systems are designed for real-time systems where processing and responding to inputs must occur within strict time constraints. These systems are used in applications like missile systems, air traffic control, and robots.
+    - **Types:**
+      - **Hard Real-Time Systems:** Meant for applications where time constraints are extremely strict, and even the shortest delay is unacceptable. Used in life-saving applications like automatic parachutes or airbags.
+      - **Soft Real-Time Systems:** Intended for applications with less strict time constraints.
+    - **Advantages:**
+      - Maximum resource utilization and task shifting.
+      - Focus on running applications and error-free operation.
+      - Efficient memory allocation and suitability for embedded systems.
+    - **Disadvantages:**
+      - Limited multitasking capability and heavy system resource usage.
+      - Complex algorithms and specific device drivers are required.
+      - Inflexible thread priority and less task switching.
+    - **Examples:** Scientific experiments, medical imaging systems, industrial control systems, weapon systems, robots, air traffic control systems, etc.

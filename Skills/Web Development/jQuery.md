@@ -1,0 +1,46 @@
+- 01 What is **jQuery**
+    - **jQuery is an is a fast, small, and feature-rich JavaScript library.**
+    - `document.querySelector(”h1”)` → `**jQuery(”h1”)` → `$(”h1”)`**
+- 02 How to **Incorporate jQuery** into Websites
+    - download and use
+    - use Google CDN (Recommendation)
+        - **`<script src="<https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js>"></script>`**
+        - use this script and then personal js before body
+            - or use `$(document).ready(function() {//js stuff });` in js
+- 03 How **Minification** Works to Reduce File Size
+    - [https://www.minifier.org/](https://www.minifier.org/)
+- 04 **Selecting Elements** with jQuery
+    - use `$(”Element”)` , `$(”.class”)` , `$(”#id”)`
+- 05 Manipulating Styles with jQuery
+    - `$(”Element”).css(”colour”)` to get the info
+    - `$(”Element”).css(”colour”, "red")` to change the css in js.
+- 06 Manipulating **Text** with jQuery
+    - `$(”Element”).text(”bye”);` to change inner text of an element.
+    - `$(”Element”).html(”bye”);` to change inner text including html code in it if any of an element.
+- 07 Manipulating **Attributes** with jQuery
+    - `$(”Element”).attr(”class”);` to view what’s inside that attribute.
+    - `$(”Element”).attr(”src”, "[<https://www.w3schools.com>](<https://www.w3schools.com/jsref/prop_html_innerhtml.asp>)");` to change what’s inside that attribute.
+- 08 **Adding Event Listeners** with jQuery
+    - `$(”Element”).click(function);` Adds click event listener to all the same type of elements.
+    - `$(documente).keypress(function);` Adds keyboard event listener to all the same type of elements.
+    - to use any event listeners u can use `.on(”mouseover”, function);`
+- 09 Adding and **Removing Elements** with jQuery
+    - `$(”Element”).before(”<h1>Hello</h1>”);` Adds it before the element.
+    - `$(”Element”).after(”<h1>Hello</h1>”);` Adds it after the element.
+    - `$(”Element”).prepend(”<h1>Hello</h1>”);` Adds it before the content of the element.
+    - `$(”Element”).append(”<h1>Hello</h1>”);` Adds it after the content of the element.
+    - `$(”Element”).remove();` to remove all the elements.
+- 10 Website **[Animations](https://api.jquery.com/category/effects/)** with jQuery **.hide() .show()**
+    - `.hide()` Hide the matched elements.
+        - ****[.hide( [duration ] [, complete ] )](https://api.jquery.com/fadeIn/#fadeIn-duration-complete)****
+        - `.show()` Display the matched elements.
+        - `.toggle()` Display or hide the matched elements.
+    - .fadeIn() Display the matched elements by fading them to opaque.
+        - .fadeOut() Hide the matched elements by fading them to transparent.
+        - .fadeToggle() Display or hide the matched elements by animating their opacity.
+    - .slideToggle() Display or hide the matched elements with a sliding motion.
+- **add class** in **jQuery**
+    - `.addClass("intro")`
+    - `$(*selector*).addClass(*classname*,function(*index,currentclass*))`
+- **setTimeout()**
+    - `setTimeout(functionRef, delay)`

@@ -1,0 +1,9 @@
+Mark is a very [Stoic](https://fourminutebooks.com/ego-is-the-enemy-summary/) guy and it shines through his writing and advice. A common idea in Stoicism is to [focus only on the things you can control](https://fourminutebooks.com/the-obstacle-is-the-way-summary/). This is easy enough to understand and implement when it comes to your actions, but it can be applied to more intangible aspects of your life as well.
+
+Take your values, for example. I know it’s hard to put them into words, but if you try to describe yourself in, say, three adjectives, you already have a good idea of which values most dictate your life. Let’s say you chose the words honest, punctual and popular. Here’s where Mark makes an interesting remark: **Only choose to have values you can control**.
+
+Most of us give up some of our ideals as we grow up, try to have a career and make money. While that’s just part of real life, it’s important you don’t hand off the steering wheel altogether. Values you don’t control are bad, because they’ll be a constant source of unnecessary suffering in your life.
+
+When we look at the three we just mentioned, honesty is 100% in your control. Only you know how honest you are, but no one else needs to. Punctuality is partially in your control. If you always leave with plenty of buffer time, you can compensate for most potential obstacles. Popularity, however, is totally out of your grasp. Sure, you can be nice and friendly to everyone, but you can’t control other peoples’ opinions. [Some will always hate you, no matter what you do](https://medium.com/personal-growth/nobody-likes-you-but-nobody-is-just-30-of-the-people-2a07cee0e249).
+
+Therefore, popularity isn’t the best value to focus on and you could try replacing it with one more controllable, such as kindness.

@@ -1,0 +1,7 @@
+What a great principle distilled into just three words: certainty hampers growth. Imagine you could choose between two modes of moving through the world: one in which you think everything you know is 100% true and one in which you think nothing you know is 100% true. Both are stressful, but which one do you think would help you make better decisions?
+
+The latter, of course. While there’s some middle ground to be found here, **rejecting the idea that you know anything for sure is a great base to start learning from**. This is true for discovering [factual knowledge](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), such as [using the scientific method to build business hypotheses](https://fourminutebooks.com/everything-is-obvious-summary/) helps arrive at better conclusions, but it is also true for gaining [conceptual knowledge](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).
+
+The second kind is more implicit knowledge about the relationships between various entities. Let’s take your place in the social hierarchy at school, for example. If you’re convinced you’re ugly, you’ll be sad a lot. But if you notice that you get lots of compliments at school, people call you charming and some have a crush on you, that’s evidence your brain is playing you with false certainty.
+
+If you allow yourself to have a little doubt, you can then disprove this limiting belief you hold about yourself.

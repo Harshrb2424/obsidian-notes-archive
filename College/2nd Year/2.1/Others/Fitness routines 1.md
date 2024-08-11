@@ -1,0 +1,10 @@
+- 3 times per week
+	- 3 mins rest 5x
+		- jogging 5 min
+		- 10 knee ups each
+		- 10 alternating jump lunges
+		- 10 squote jumps
+		- 20 mountain climbers each
+		- 10 pushups
+		- 10 knee up crunches
+		- 10 heel taps each

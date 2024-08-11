@@ -1,0 +1,10 @@
+- Databases to store data properly.
+- Main Types of Databases are
+    - SQL (Structured Query Language)
+        - MySQL
+        - PostgreSQL
+    - NoSQL (Not only Structured Query Language)
+        - MongoDB
+        - Redis
+- SQL are fixed tables
+- NoSQL are flexible and can have more items or less items

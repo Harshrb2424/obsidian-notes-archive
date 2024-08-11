@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"97bf5de7ae4fd22c","x":123,"y":-103,"width":400,"height":883,"type":"file","file":"Leisure and Recreation/Reading/Others/Six Ways to Make People Like You.md"},
+		{"type":"file","file":"Leisure and Recreation/Reading/Others/Fundamental Techniques in Handling People.md","id":"732914adb98d616c","x":123,"y":-740,"width":400,"height":520},
+		{"id":"79cf6c7d485bb3e4","x":847,"y":-686,"width":400,"height":400,"type":"file","file":"Leisure and Recreation/Reading/Others/Give honest and sincere appreciation.md"},
+		{"id":"669146371e160a4f","x":847,"y":-1120,"width":400,"height":400,"type":"file","file":"Leisure and Recreation/Reading/Others/Don't criticize, condemn, or complain..md"},
+		{"id":"f7533dd8ce5d76ca","x":847,"y":-260,"width":400,"height":400,"type":"file","file":"Leisure and Recreation/Reading/Others/Arouse in the other person an eager want..md"},
+		{"id":"17d5ee687d29cbf6","x":323,"y":1120,"width":400,"height":1000,"type":"file","file":"Leisure and Recreation/Reading/Others/Be a good listener. Encourage others to talk about themselves..md"},
+		{"id":"921a0da3f78f5d33","x":-997,"y":1120,"width":400,"height":1000,"type":"file","file":"Leisure and Recreation/Reading/Others/The only way to get the best of an argument is to avoid it..md"},
+		{"id":"5bcf5cb80fe59ffe","x":-557,"y":1120,"width":400,"height":1000,"type":"file","file":"Leisure and Recreation/Reading/Others/Show respect for the other person's opinion. Never say, 'You're wrong'.md"},
+		{"id":"75e00020ef7373c4","x":-117,"y":1120,"width":400,"height":1000,"type":"file","file":"Leisure and Recreation/Reading/Others/Remember that a person's name is to that person the sweetest and most important sound in any language.md"},
+		{"id":"7492f8a9c7bb68b1","x":763,"y":1120,"width":400,"height":1000,"type":"file","file":"Leisure and Recreation/Reading/Others/Talk in terms of the other person's interests..md"},
+		{"id":"9bc349ef34b8fe02","x":1203,"y":1120,"width":400,"height":1000,"type":"file","file":"Leisure and Recreation/Reading/Make the other person feel important..md"},
+		{"type":"file","file":"Leisure and Recreation/Reading/How to Win Friends and Influence People.md","id":"64c4093dc80f884a","x":-540,"y":-480,"width":400,"height":620}
+	],
+	"edges":[
+		{"id":"6ac81c44da36c7ef","fromNode":"64c4093dc80f884a","fromSide":"right","toNode":"732914adb98d616c","toSide":"left"},
+		{"id":"e204afe41159dd70","fromNode":"64c4093dc80f884a","fromSide":"right","toNode":"97bf5de7ae4fd22c","toSide":"left"},
+		{"id":"7906bc0ef015d1d1","fromNode":"732914adb98d616c","fromSide":"right","toNode":"669146371e160a4f","toSide":"left"},
+		{"id":"3834d1069b5a601e","fromNode":"732914adb98d616c","fromSide":"right","toNode":"79cf6c7d485bb3e4","toSide":"left"},
+		{"id":"a41a7242ab1eecdd","fromNode":"732914adb98d616c","fromSide":"right","toNode":"f7533dd8ce5d76ca","toSide":"left"},
+		{"id":"5f38f7096bf4f226","fromNode":"97bf5de7ae4fd22c","fromSide":"bottom","toNode":"921a0da3f78f5d33","toSide":"top"},
+		{"id":"b693f76feae9dec2","fromNode":"97bf5de7ae4fd22c","fromSide":"bottom","toNode":"5bcf5cb80fe59ffe","toSide":"top"},
+		{"id":"52302aa7440294c9","fromNode":"97bf5de7ae4fd22c","fromSide":"bottom","toNode":"75e00020ef7373c4","toSide":"top"},
+		{"id":"e36063ebf01426e5","fromNode":"97bf5de7ae4fd22c","fromSide":"bottom","toNode":"17d5ee687d29cbf6","toSide":"top"},
+		{"id":"9f5cbd28e5ec5fba","fromNode":"97bf5de7ae4fd22c","fromSide":"bottom","toNode":"7492f8a9c7bb68b1","toSide":"top"},
+		{"id":"b8b3ff162eaf5d2d","fromNode":"97bf5de7ae4fd22c","fromSide":"bottom","toNode":"9bc349ef34b8fe02","toSide":"top"}
+	]
+}

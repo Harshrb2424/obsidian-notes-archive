@@ -1,0 +1,20 @@
+{
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-periwinkle-lt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-minimal-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-minimal-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-mint-lt",
+  "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-accent-lt",
+  "obsidian-prism-theme@@graph-line-color-lt": "var(--color-yellow-text)",
+  "obsidian-prism-theme@@pt-font-alt-a": true,
+  "obsidian-prism-theme@@pt-font-alt-g": true,
+  "obsidian-prism-theme@@pt-font-slashed-zero": true,
+  "obsidian-prism-theme@@inline-title-color-lt": "var(--interactive-accent-text)",
+  "obsidian-prism-theme@@h1-text-color-lt": "var(--interactive-accent-text)",
+  "obsidian-prism-theme@@h2-text-color-lt": "var(--interactive-accent-text)",
+  "mado-miniflow@@toggle-note-radius": true,
+  "mado-miniflow@@toggle-tab-design": true,
+  "mado-miniflow@@inline-code-color@@dark": "#079030",
+  "mado-miniflow@@list-marker-color@@dark": "#13AE54",
+  "mado-miniflow@@inline-code-color@@light": "#079030",
+  "mado-miniflow@@list-marker-color@@light": "#079030"
+}
