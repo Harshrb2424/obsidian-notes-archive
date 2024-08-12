@@ -1,0 +1,5 @@
+### AM511PE: [[Graph Theory (Professional Elective – I)]] 
+### AM512PE: [[Introduction to Data Science (Professional Elective – I)]]
+### AM513PE: [[Web Programming (Professional Elective – I)]]
+### AM514PE: [[Image Processing (Professional Elective – I)]]
+### AM515PE: [[Computer Graphics (Professional Elective – I)]]

@@ -11,7 +11,7 @@
 	- [[pg (npm i pg)]]
 - [[EJS (npm install ejs)]] (HTML x Java Script)
 - [[React JS]] (Java Script)
-- Django (Python)
+- [[Django]] (Python)
 
 ## Data Base
 - [[Data Bases]]
